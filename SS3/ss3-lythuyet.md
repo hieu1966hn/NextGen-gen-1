@@ -1,0 +1,2 @@
+- SPA web là gì? (single page application): Sử dụng 1 file html duy nhất
+- Mô hình MVC là gì? (Model(Server) - View (client) - Controller(ngay tại client))
